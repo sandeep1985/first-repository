@@ -1,4 +1,4 @@
-<div style="width:100%;background-color:#F46D2D;text-align: center;">
+test<div style="width:100%;background-color:#F46D2D;text-align: center;">
     <div>
         <br />
         <img alt="Measure Roi"  src="https://accuratewebsolution.com/wp-content/uploads/2018/03/measure-roi.jpg"/> 
@@ -36,6 +36,7 @@
     </div>
     
 </div>
+<<<<<<< HEAD
 
 <div style="float:left"><img alt="Email Automation"  src="https://accuratewebsolution.com/wp-content/uploads/2018/03/email-automation.jpg"/> </div>
 <div style="float:left;margin-left:2%;margin-top:2%">
@@ -184,3 +185,5 @@
     </div>
 </div>
 
+=======
+>>>>>>> 7eaf7de4114dd996254c8e2324f3f4e8c1a31c29
