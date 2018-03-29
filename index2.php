@@ -36,7 +36,7 @@ test<div style="width:100%;background-color:#F46D2D;text-align: center;">
     </div>
     
 </div>
-<<<<<<< HEAD
+
 
 <div style="float:left"><img alt="Email Automation"  src="https://accuratewebsolution.com/wp-content/uploads/2018/03/email-automation.jpg"/> </div>
 <div style="float:left;margin-left:2%;margin-top:2%">
@@ -185,5 +185,23 @@ test<div style="width:100%;background-color:#F46D2D;text-align: center;">
     </div>
 </div>
 
-=======
->>>>>>> 7eaf7de4114dd996254c8e2324f3f4e8c1a31c29
+<div style="width:100%;background-color:#F46D2D;text-align: center;">
+    <div>
+        <br />
+        <img alt="Measure Roi"  src="https://accuratewebsolution.com/wp-content/uploads/2018/03/measure-roi.jpg"/> 
+    </div>
+    <br /> 
+    
+    <div style="width:70%;margin:0 auto;padding:2%"> 
+    <h2 style="color:#fff;font-size:50px">GENERATE LEADS</h2>
+    <p style="font-size:25px;color:#E2F7C0;text-align: left;">
+        &bull;  Comprehensive Campaign Analytics
+        &bull;  Google ADwords Integration <br />
+        &bull;  Exportable Graphss and Reports <br />
+        &bull;  Eliminate Waste<br />
+        &bull;  Invest in Successful Tactics<br />
+        &bull;  Content ROI tracking 
+    </p>
+    </div>
+    
+</div>
