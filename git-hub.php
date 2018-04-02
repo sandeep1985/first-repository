@@ -1,2 +1,1 @@
-<?php
-$output = `git pull`;
+<?php `git pull`;
