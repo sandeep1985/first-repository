@@ -1,4 +1,7 @@
 <?php
+$output = `git pull`;
+echo "<pre>$output</pre>";
+exit;
 	/**
 	 * GIT DEPLOYMENT SCRIPT
 	 *
