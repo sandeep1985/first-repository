@@ -1,7 +1,4 @@
 <?php
-$output = `git pull`;
-echo "<pre>$output</pre>";
-exit;
 	/**
 	 * GIT DEPLOYMENT SCRIPT
 	 *
@@ -18,7 +15,6 @@ exit;
 	$output = '';
 	foreach($commands AS $command){
 		// Run it
-        echo $command."1,";
 		$tmp = shell_exec($command);
 		// Output
 		$output .= "<span style=\"color: #6BE234;\">\$</span> <span style=\"color: #729FCF;\">{$command}\n</span>";
