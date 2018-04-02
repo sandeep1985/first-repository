@@ -1,1 +1,1 @@
-<?php echo "tets";
+<?php `git pull`;
